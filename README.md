@@ -9,6 +9,7 @@ This is a basic dynamic website which has the following specifications:
   *  "Transaction" table records all transfers that took place previously.
 
 - There is Only transfer of money between multiple users. No creation of personal user account or login page is made.
+- Access the website at https://brickfield-b.000webhostapp.com/index.php
 
 # Teck Stack
 
