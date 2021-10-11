@@ -12,14 +12,8 @@
     <title>Brickfield Bank</title>
   </head>
   <style>
-  body{
-	background: url('img/background.jpg');
-  color: white;
-	background-repeat: no-repeat;
-  background-size: cover;
-}
 .intro{
-	background: linear-gradient(to right, #ff6e7f, #bfe9ff);
+	background: linear-gradient(to right, #b993d6, #8ca6db);
 }
   </style>
 
@@ -40,19 +34,19 @@
                 </div>
               </div>
               <div class="col-sm-10 col-md img text-center">
-                <img src="img/bank1.png" class="img-fluid pt-2">
+                <img src="img/wallet.webp" class="img-fluid pt-2">
               </div>
             </div>
 
       <!-- Activity section -->
             <div class="row activity text-center">
                   <div class="col-md act">
-                  <img src="img/cash1.png" class="img-fluid">
+                  <img src="img/cash1.jpeg" width="215px" height="176px" style="margin:20px;" class="img-fluid">
                     <br>
                     <a href="transfermoney.php"><button>Make a Transaction</button></a>
                   </div>
                   <div class="col-md act">
-                    <img src="img/trans1.png"  class="img-fluid">
+                    <img src="img/trans1.jpeg" width="215px" height="176px" style="margin:20px;" class="img-fluid">
                     <br>
                     <a href="transactionhistory.php"><button>View Transaction History</button></a>
                   </div>
